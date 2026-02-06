@@ -1,0 +1,15 @@
+#binary
+'''
+a=15
+print(bin(a))
+'''
+'''
+a=17
+print(bin(a))
+'''
+'''
+print(oct(12))
+print(oct(21))
+'''
+print(hex(17))
+print(oct(77))
