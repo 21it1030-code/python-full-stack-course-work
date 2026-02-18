@@ -8,3 +8,14 @@ print(x.islower())
 print(x.isupper())
 print(x.istitle())
 print(x.isprintable())
+
+'''
+prakash is a frontend developer
+PRAKASH IS A FRONTEND DEVELOPER
+PRAKASH is A frontend developer
+Prakash is a frontend developer
+False
+False
+False
+True
+'''
