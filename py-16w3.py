@@ -35,5 +35,11 @@ print(x[-5])'''
 x="prakash"
 print(x[0:7:1])
 print(x[-1:])
-print(x[5:6])      #wedo not have out of range errors
-print(x[-5:-1])
+print(x[5:6])      #we do not have out of range errors
+print(x[-1:-5:-1])
+print(x[-2:-7:-1])
+print(x[:])
+print(x[::])
+print(x[0:7:2])
+print(x[-1:-7:-2])
+print(x[2::])
